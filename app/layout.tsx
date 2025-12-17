@@ -16,8 +16,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "My Awesome App",
-  description: "Next.js app with beautiful gooey navbar",
+  title: "RBKVMUL Official website",
+  description: "The official website of the RBKVMUL",
 };
 
 
@@ -34,7 +34,6 @@ export default function RootLayout({
       >
         <Navbar />
 
-        {/* Spacer to push content below fixed navbar */}
         <div className="h-20" />
 
         <main className="min-h-screen">
