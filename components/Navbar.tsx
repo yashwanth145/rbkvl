@@ -55,7 +55,7 @@ export default function Navbar() {
           {/* Brand */}
           <div className="flex-shrink-0">
             <Link href="/" className={`text-2xl font-bold ${brandColor}`}>
-              MyBrand
+              RBKVMUL
             </Link>
           </div>
 
